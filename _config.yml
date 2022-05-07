@@ -6,24 +6,18 @@ description: ANOTHER FREE + FULLY RESPONSIVE SITE TEMPLATE BY <a href="https://h
 baseurl: "/solid-state-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: 
+city: Marburg
+zip_code: 35032
+country: Germany
+
 
 # social settings
 500px_url:
-facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+gitlab_url: 
+linkedin_url: 
+
 
 # build settings
 markdown: kramdown
